@@ -20,7 +20,6 @@ To get started, download the project file and open it in Xcode. Then, run the ap
 
 #App Screens
 
-1. Splash screen - The app launches with a visually engaging splash screen
+1. SPLASH Screen - The app launches with a visually engaging splash screen
    
-   
-![home_screen](https://github.com/user-attachments/assets/ab7c3e3a-604d-41a2-83fb-75245bf0d842)
+![splash_screen](https://github.com/user-attachments/assets/41e879e5-f4b8-4f43-aae6-dc8603b34143)    ![home_screen](https://github.com/user-attachments/assets/ab7c3e3a-604d-41a2-83fb-75245bf0d842)
