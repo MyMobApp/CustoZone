@@ -15,10 +15,7 @@ This iOS application is designed to help businesses better understand user inter
 
 #Instructions
 
-To get started, download the project file and open it in Xcode. 
-
-Navigate to the 'Utility' folder, open the 'Constants' file, and replace 'YOUR_API_KEY' with your Gorest API token.
-
+To get started, download the project file and open it in Xcode. Navigate to the 'Utility' folder, open the Constants file, and replace 'YOUR_API_KEY' with your Gorest API token.
 Then, run the app on the simulator or your device.
 
 
