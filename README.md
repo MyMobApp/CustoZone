@@ -22,4 +22,5 @@ To get started, download the project file and open it in Xcode. Then, run the ap
 
 1. Splash screen - The app launches with a visually engaging splash screen
    
-   https://github.com/user-attachments/assets/ef6ca985-8f72-47b1-a5dc-26321ee0646d
+   
+![home_screen](https://github.com/user-attachments/assets/ab7c3e3a-604d-41a2-83fb-75245bf0d842)
