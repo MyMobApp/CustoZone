@@ -1,3 +1,4 @@
+
 # CustoZone
 
 Description
@@ -18,9 +19,7 @@ This iOS application is designed to help businesses better understand user inter
 To get started, download the project file and open it in Xcode. Navigate to the 'Utility' folder, open the Constants file, and replace 'YOUR_API_KEY' with your Gorest API token.
 Then, run the app on the simulator or your device.
 
-
-#App Screens
-
+## Screenshots
 
 
 1. --- SPLASH Screen --- The app launches with a visually engaging splash screen
@@ -77,6 +76,11 @@ Then, run the app on the simulator or your device.
    
 
 ![purchaselist_screen](https://github.com/user-attachments/assets/d8e2c4dd-5cb7-4542-904c-71d184cddd51)
+
+## Author
+
+**Mahesh Narayanan**
+
 
 
 
